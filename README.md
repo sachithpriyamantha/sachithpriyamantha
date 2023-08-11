@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachith Priyamantha</h1>
-<h3 align="center">I'm Software Developer</h3>
+<h3 align="center">I'm Software Devloper</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/d38048c04473ce7fbcdde5bb8eb4a9722b7cb630de5ab485967633759c21b534/68747470733a2f2f7777772e756e696167656e74732e636f6d2f6173736574732f696d616765732f736b7970652d73657373696f6e2e676966">
 
@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Android**
+  
+- 💞️ I’m looking to collaborate on ...Open source projects
 
 - 📫 How to reach me **sachithpriyamantha1423@gmail.com**
 
