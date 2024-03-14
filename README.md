@@ -4,7 +4,9 @@
 <h1 align="center">Hi 👋, I'm Sachith Priyamantha</h1>
 <h3 align="center">I'm Software Devloper</h3>
 
-[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/hammadx02)
+<div align = "center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+ </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachithpriyamantha&label=Profile%20views&color=0e75b6&style=flat" alt="sachithpriyamantha" /> </p>
 
