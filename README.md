@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachith Priyamantha</h1>
 <h3 align="center">I'm Software Devloper</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/d38048c04473ce7fbcdde5bb8eb4a9722b7cb630de5ab485967633759c21b534/68747470733a2f2f7777772e756e696167656e74732e636f6d2f6173736574732f696d616765732f736b7970652d73657373696f6e2e676966">
+[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/hammadx02)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachithpriyamantha&label=Profile%20views&color=0e75b6&style=flat" alt="sachithpriyamantha" /> </p>
 
