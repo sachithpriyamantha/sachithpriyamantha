@@ -1,3 +1,6 @@
+<div id="header" align="center">        
+  <img class="top" src="https://media1.giphy.com/media/cUAGuLiEcTBwRfkAQq/200.webp?cid=ecf05e47h80jg3j60m5m9r9neanxsn5l0miyzxmsgjstu5zt&ep=v1_gifs_related&rid=200.webp&ct=s" width="100"/>
+
 <h1 align="center">Hi 👋, I'm Sachith Priyamantha</h1>
 <h3 align="center">I'm Software Devloper</h3>
 
