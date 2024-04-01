@@ -40,7 +40,7 @@ _<h3 align="left">My Trophies</h3>_
 
 ## 💳 Profile Summary
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prasanka-Madhushan&theme=highcontrast"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachithpriyamantha&theme=highcontrast"/>
 </p>
 
 ### ✍️ Random Dev Quote
