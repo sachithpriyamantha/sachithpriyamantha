@@ -6,17 +6,16 @@
 
 [![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/hammadx02)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachithpriyamantha&label=Profile%20views&color=0e75b6&style=flat" alt="sachithpriyamantha" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sachith1423" target="blank"><img src="https://img.shields.io/twitter/follow/sachith1423?logo=twitter&style=for-the-badge" alt="sachith1423" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+ 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Android**
+ 💬 Ask me about **Android**
   
-- 💞️ I’m looking to collaborate on ...Open source projects
+ 💞️ I’m looking to collaborate on ...Open source projects
 
-- 📫 How to reach me **sachithpriyamantha1423@gmail.com**
+ 📫 How to reach me **sachithpriyamantha1423@gmail.com**
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
