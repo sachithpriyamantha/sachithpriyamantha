@@ -29,21 +29,37 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
 
-_<h3 align="left">My Trophies</h3>_
+## 📊 GitHub Stats:
+<p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prasanka-Madhushan&show_icons=true&theme=algolia&hide_border=true" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sachithpriyamantha&theme=algolia&hide_border=true" />
+</p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=sachithpriyamantha&theme=radical)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sachithpriyamantha&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)  ![](https://github-readme-streak-stats.herokuapp.com/?user=sachithpriyamantha&theme=highcontrast&hide_border=true)<br/>
+## 📈 Language Usage
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachithpriyamantha&theme=algolia&hide_border=true&layout=compact" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sachithpriyamantha&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sachithpriyamantha&limit=5&theme=algolia&combine_all_yearly_contributions=true">
+</p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sachithpriyamantha&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 ## 💳 Profile Summary
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachithpriyamantha&theme=highcontrast"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachithpriyamantha&theme=algolia"/>
 </p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sachithpriyamantha&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<p align="center">
+    <img src="https://visitcount.itsvg.in/api?id=sachithpriyamantha&label=Profile%20Views&pretty=false">
+</p>
