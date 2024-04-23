@@ -48,6 +48,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sachithpriyamantha&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
+<div align="center">
+    <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph-mnex.vercel.app/graph?username=sachithpriyamantha&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=false">
+</div>
+
 ## 💳 Profile Summary
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachithpriyamantha&theme=algolia"/>
