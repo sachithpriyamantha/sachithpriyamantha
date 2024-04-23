@@ -31,7 +31,7 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prasanka-Madhushan&show_icons=true&theme=algolia&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sachithpriyamantha&show_icons=true&theme=algolia&hide_border=true" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sachithpriyamantha&theme=algolia&hide_border=true" />
 </p>
 
