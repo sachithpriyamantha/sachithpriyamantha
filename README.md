@@ -19,10 +19,9 @@
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
-<a href="https://twitter.com/sachith1423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachith1423" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/sachith-priyamantha-4aa03b236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sachith-priyamantha-4aa03b236" height="30" width="40" /></a>
-<a href="https://fb.com/sachith priyamantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sachith priyamantha" height="30" width="40" /></a>
-<a href="https://instagram.com/sa_chiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sa_chiya" height="30" width="40" /></a>
+    <a href="www.linkedin.com/in/sachith-priyamantha-4aa03b236"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+    <a href="[https://facebook.com/profile.php?id=100009140848973](https://www.facebook.com/sachith.priyamantha.18?mibextid=LQQJ4d)"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
+    <a href=""><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
 </p>
 
 
