@@ -7,7 +7,6 @@
 [![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/hammadx02)
 
 
-<p align="left"> <a href="https://twitter.com/sachith1423" target="blank"><img src="https://img.shields.io/twitter/follow/sachith1423?logo=twitter&style=for-the-badge" alt="sachith1423" /></a> </p>
 
  🌱 I’m currently learning **React Native**
 
@@ -22,6 +21,7 @@
     <a href="www.linkedin.com/in/sachith-priyamantha-4aa03b236"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
     <a href="[https://facebook.com/profile.php?id=100009140848973](https://www.facebook.com/sachith.priyamantha.18?mibextid=LQQJ4d)"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
     <a href=""><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
+    <a href="https://twitter.com/sachith1423"><img src="https://img.shields.io/badge/twitter-%231877F2.svg?logo=twitter&logoColor=white"></a>
 </p>
 
 
