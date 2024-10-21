@@ -16,7 +16,7 @@
 
  📫 How to reach me **sachithpriyamantha1423@gmail.com**
 
- 💞️ My Portflio **https://sachith-portfolio-hazel.vercel.app/**
+ 💞️ My Portfolio **https://sachith-portfolio-hazel.vercel.app/**
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
